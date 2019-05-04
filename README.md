@@ -1,1 +1,2 @@
-# DataViz_Dendrogram_RFM_R
+# Sample Data Viz and RFM with R Script
+
